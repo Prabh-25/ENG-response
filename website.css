@@ -1,0 +1,124 @@
+.headings1,
+.headings2,
+.headings3,
+.headings4,
+.headings5 {
+  font-size: 40px;
+  display: inline-block;
+  background-color: black;
+  width: 640px;
+  padding-bottom: 49px;
+
+  color: yellow;
+  margin-top: -4px;
+  height: 40px;
+  margin-left: 400px;
+}
+.headings1 {
+  padding-left: 200px;
+}
+.headings2 {
+  padding-left: 30px;
+}
+.headings4 {
+  margin-left: 0px;
+  width: 100%;
+  margin-top: -27px;
+}
+.headings5 {
+  padding-left: 240px;
+}
+.bold {
+  font-weight: bold;
+}
+.p1 {
+  font-size: 30px;
+  display: inline-block;
+  width: 880px;
+  word-spacing: 10px;
+  margin-left: 300px;
+}
+.p2 {
+  font-size: 20px;
+  display: inline-block;
+  width: 880px;
+  word-spacing: 10px;
+  margin-left: 300px;
+}
+.p3 {
+  font-size: 30px;
+  display: inline-block;
+  width: 800px;
+  word-spacing: 10px;
+}
+.p4 {
+  font-size: 20px;
+  margin-left: 50px;
+  color: yellow;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menu-bar {
+  background-color: black;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5%;
+}
+.menu-bar ul {
+  list-style: none;
+  display: flex;
+}
+.menu-bar ul li {
+  padding: 10px 25px;
+}
+.menu-bar ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+.menu-bar ul li a:hover {
+  text-decoration: underline;
+}
+.Maintitle {
+  color: white;
+  font-size: 40px;
+}
+.Maintitle span {
+  color: yellow;
+}
+.menu-bar ul li a div {
+  position: relative;
+}
+.sub-options {
+  cursor: pointer;
+}
+.aboutus {
+  background-color: black;
+  color: white;
+  height: 115px;
+}
+.Img {
+  display: inline-block;
+  background-color: white;
+  width: 800px;
+  height: 300px;
+}
+.Img2 {
+  vertical-align: top;
+  margin-left: 770px;
+  margin-top: -304px;
+  height: 300px;
+  width: 770px;
+}
+.Img3 {
+  margin-left: 800px;
+  margin-top: -160px;
+  width: 500px;
+}
